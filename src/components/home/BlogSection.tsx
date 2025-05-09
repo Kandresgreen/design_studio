@@ -58,7 +58,7 @@ const BlogSection: React.FC = () => {
           </div>
         </div>
         <div className="flex items-center overflow-hidden justify-center mt-[9px] py-10">
-          <div className="self-stretch flex justify-around min-w-60 min-h-[488px] w-full items-stretch gap-6 flex-wrap flex-1 shrink basis-[0%] my-auto max-md:max-w-full">
+          <div className="self-stretch flex justify-between min-w-60 min-h-[488px] w-full items-stretch px-6 gap-6 flex-wrap flex-1 shrink basis-[0%] my-auto max-md:max-w-full">
             {blogPosts.map((post) => (
               <BlogPostCard key={post.id} post={post} />
             ))}

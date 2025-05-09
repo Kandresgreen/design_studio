@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#4527A0"/>
+  
+  <!-- Lamp -->
+  <path d="M256 40L256 100" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <path d="M200 140C200 120 220 100 256 100C292 100 312 120 312 140" fill="white"/>
+  <path d="M190 140H322" stroke="white" stroke-width="10"/>
+  <path d="M245 160C245 160 230 170 240 185C250 200 270 190 270 190" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Couch -->
+  <path d="M160 250H352C352 250 372 250 372 270V320H140V270C140 250 160 250 160 250Z" fill="white"/>
+  <path d="M150 270H100C90 270 80 280 80 290V320H150V270Z" fill="white"/>
+  <path d="M362 270H412C422 270 432 280 432 290V320H362V270Z" fill="white"/>
+  <rect x="80" y="320" width="352" height="10" fill="white"/>
+  <rect x="60" y="350" width="392" height="12" fill="white"/>
+  <path d="M257 250V320" stroke="#4527A0" stroke-width="4"/>
+</svg> 

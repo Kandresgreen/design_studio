@@ -1,0 +1,22 @@
+/* TEAM */
+Name: STYLY Team
+Site: https://styly.io
+Twitter: @StylyDesign
+Location: Global
+
+/* SITE */
+Last update: 2024-08-01
+Standards: HTML5, CSS3, JavaScript
+Components: React, Tailwind CSS
+Software: Vite, TypeScript, Node.js
+
+/* THANKS */
+Thanks to our amazing community of designers and real estate professionals who trust STYLY
+for their interior design and visualization needs.
+
+/* SITE DESCRIPTION */
+STYLY is an AI-powered interior and exterior design platform that transforms empty spaces 
+into beautifully furnished, realistic visuals. Upload a photo or describe your desired space 
+without complex prompting or technical expertise. Our platform serves both B2B and B2C markets, 
+helping real estate professionals, homeowners, and businesses create stunning interior designs
+through web, mobile, or WhatsApp. 
